@@ -10,8 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: whitesmoke;
-  /* background: linear-gradient(to right, #5433ff, #20bdff, #a5fecb);  */
+  background: linear-gradient(to right, #d9a7c7, #fffcdc);
 }
 
 .calculator {

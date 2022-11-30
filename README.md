@@ -3,7 +3,7 @@
 [See the live demo here](https://rifkyzena.github.io/calculator-website/)
 
 # calculator-website
-A simple calculator on a responsive website. Users will be able to calculate four basic operations, namely addition, subtraction, multipication, and division. The calculator is also able to process up to decimal numbers. 
+A simple calculator on a responsive website. Users will be able to calculate four basic operations, namely addition, subtraction, multipication, and division. The calculator is also able to process and display decimal numbers. 
 
 ## How to use:
 - Numbers and period/dot (for decimal): Click on any number to display it on the screen. 
